@@ -19,8 +19,7 @@ body {
     background-position: center;
     background-attachment: fixed;
 }
-
-img{
+div#Backgroundimage img{
     height: 475px;
     width: 475px;
     margin: 10px;
