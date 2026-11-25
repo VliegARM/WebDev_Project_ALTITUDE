@@ -116,3 +116,18 @@ div#Backgroundimage img{
         font-size: 20px;
     }
 }
+
+.LucasSN {
+    
+  width: 350px;
+  height: 45px;
+  background-color: #6BBAEC;
+  transition: width 4s ease 0.5s;
+}
+
+.LucasSN:hover{
+  	width: 500px;
+}
+
+
+
