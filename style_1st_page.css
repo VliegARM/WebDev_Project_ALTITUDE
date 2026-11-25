@@ -2,8 +2,10 @@ nav {
     background-color: lightgray;
     width: 100%;
     padding:15px;
-    box-sizing: border-box;
-
+    box-sizing: border-box; /*flex box  */
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
 }
 .linkh{
   width: 200px;
